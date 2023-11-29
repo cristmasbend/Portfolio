@@ -1,9 +1,9 @@
-# Портфолио
+# Портфолио вёрстки
 Примеры вёрстки одностраничных сайтов
 <br>
 Bспользованные инструменты: [SCSS](https://sass-scss.ru/ "SCSS"), 
 <br>
-Gulp](https://gulpjs.com/ "Gulp"), 
+[Gulp](https://gulpjs.com/ "Gulp"), 
 <br>
 [jQuery](https://code.jquery.com/ "Подключение jQuery"), 
 <br>
